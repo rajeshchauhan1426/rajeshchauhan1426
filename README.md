@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi 👋<br><br><b>I'm Rajesh Chauhan <b><br><br>Full Stack JavaScript Developer<br><br>I like Making, Breaking, Experimenting, Developing and Learning Things About the Web Dev
 
 
