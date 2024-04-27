@@ -12,8 +12,7 @@ Hi 👋<br><br>I'm Rajesh Chauhan <br><br>Full Stack JavaScript Developer<br><br
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rajeshchauhan1426&icon=0&color=4)](https://visitcount.itsvg.in)
